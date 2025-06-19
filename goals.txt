@@ -1,0 +1,12 @@
+#My Personal and Academic Goals for Next Year
+
+Academic Goals:
+Master full-stack development (React, Node.js, databases, etc.).
+
+Complete at least 3 real-world coding projects to strengthen my portfolio.
+
+Apply and gain admission to a top tech university or program.
+
+Sharpen my problem-solving skills through regular practice on LeetCode/HackerRank.
+
+Learn and contribute to open-source projects.
